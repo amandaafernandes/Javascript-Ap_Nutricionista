@@ -27,7 +27,7 @@
 
 ## 📁 Acesso a pagina
 
-:link: <a href=" https://amandaafernandes.github.io/Javascript-Ap_Nutricionista/" target="_blank" rel="noopener noreferrer"> Link da Apeperia </a> (pagina estática). 
+:link: <a href="https://amandaafernandes.github.io/Javascript-Ap_Nutricionista/" target="_blank" rel="noopener noreferrer"> Link da Nutricionista </a> (pagina estática). 
 
 ## :computer: Ferramentas e Tecnologias utilizadas:
 <li>Javascript;</li> 
